@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/home/rajulinux/anaconda3/envs/rajutf/bin/python"
+=======
+    "git.autofetch": true
+>>>>>>> d1016dd035ae63962c2dfa6ba05a54b544ba929b
 }
